@@ -3,7 +3,7 @@ while True:
     num2 = int(input("Enter a number: "))
     total = num + num2
     print(total)
-    q = input("Do you want to quit? ")
+    q = input("Do you want to quit (yes)? ")
     if q == "yes":
         break
 print("hi")
