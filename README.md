@@ -1,2 +1,2 @@
-# STEM-Summer-Workshop
-STEM Summer Workshop
+# STEM-Summer-Workshop-Python
+STEM Summer Workshop Python
